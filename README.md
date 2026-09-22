@@ -11,6 +11,7 @@ In Pipe Pulse, pipes continuously pulse and launch balls towards the centre of t
 ## Features
 
 - 10 levels with progressive difficulty
+- Multiple enemy ball types with different behaviours
 - Endless game mode
 - User login and account system
 - Persistent leaderboard
@@ -20,6 +21,14 @@ In Pipe Pulse, pipes continuously pulse and launch balls towards the centre of t
 - OOP-based enemy system
 - Database storage for player progress and scores
 - Animated game elements and UI
+
+## About
+
+Pipe Pulse is a 2D arcade defense game built with Java and Processing.
+
+Pipes pulse and launch different types of enemy balls towards the centre of the screen. The player's objective is to destroy the incoming enemies before they reach the centre.
+
+The game features 10 progressively difficult levels, an endless mode, player accounts, and a persistent leaderboard.
 
 ## Controls
 
